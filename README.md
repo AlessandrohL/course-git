@@ -1,3 +1,3 @@
-# Curso de _Git_ & _GitHub_
+# _Git_ & _GitHub_ course
 
-Hola soy Luis Alessandro Cordova.
+Hi I'm Luis Alessandro and I'm learning Git.
